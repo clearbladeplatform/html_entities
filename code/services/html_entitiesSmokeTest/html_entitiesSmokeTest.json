@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,html_entities",
+    "logging_enabled": "false",
+    "name": "html_entitiesSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "html_entitiesSmokeTest.js"
+}
